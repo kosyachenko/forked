@@ -6,7 +6,7 @@ published: true
 
 Що тут має бути?
 
-systemctl hibernate
+systemctl hibernate -i (from https://ask.fedoraproject.org/en/question/93769/fedora-24-hibernation-error-sleep-verb-not-supported/ with explanation)
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
