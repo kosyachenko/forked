@@ -5,6 +5,7 @@ published: true
 ---
 
 Що тут має бути?
+systemctl hibernate
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
